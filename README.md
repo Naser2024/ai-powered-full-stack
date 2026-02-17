@@ -1,15 +1,11 @@
-# my-app
+# AI Powered Full-Stack Web-App
 
-To install dependencies:
+This is my AI-powered full-stack application.
 
-```bash
-bun install
-```
+## About
+AI Powered Full-Stack Web-App
 
-To run:
+(Add your own description, tech stack, setup instructions here...)
 
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.9. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## Resources
+- Link to docs if any
